@@ -118,6 +118,6 @@ fig = px.choropleth(
 # Show the plot
 
 st.title('Wassup Archer')
-st.write("Here's a Plotly line plot:")
+st.write(" wassup archer")
 st.plotly_chart(fig)
 
