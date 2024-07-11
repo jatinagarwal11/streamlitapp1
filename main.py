@@ -117,7 +117,7 @@ fig = px.choropleth(
 
 # Show the plot
 
-st.title('Streamlit Plotly Dashboard')
+st.title('Wassup Archer')
 st.write("Here's a Plotly line plot:")
 st.plotly_chart(fig)
 
